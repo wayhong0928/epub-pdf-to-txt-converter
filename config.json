@@ -1,0 +1,10 @@
+{
+    "language": "zh_TW",
+    "preserve_structure": true,
+    "skip_existing": true,
+    "output_encoding": "utf-8",
+    "log_level": "INFO",
+    "window_geometry": "600x500",
+    "last_input_path": "",
+    "last_output_path": ""
+}

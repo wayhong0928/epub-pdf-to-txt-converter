@@ -1,0 +1,15 @@
+# EPUB & PDF to TXT Converter v1.0.0 - Dependencies
+
+# Core dependencies
+beautifulsoup4>=4.12.0
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+
+# GUI framework (usually included with Python)
+# tkinter - included with Python standard library
+
+# Optional dependencies for better performance
+lxml>=4.9.0
+
+# Development dependencies (optional)
+pyinstaller>=5.0.0
