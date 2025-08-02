@@ -1,5 +1,7 @@
 # 快速入門指南
 
+[**English**](quick_start_guide.md) | [**繁體中文**](quick_start_guide_zh_TW.md)
+
 本指南將幫助您快速開始使用 EPUB/PDF 轉 TXT 轉換器。
 
 ## 安裝

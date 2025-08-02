@@ -1,12 +1,14 @@
 # 📚 EPUB & PDF to TXT Converter v1.0.0
 
-A powerful, professional-grade bat## 📖 Documentation
+A powerful, professional-grade batch converter that transforms EPUB and PDF files into clean, readable TXT format with an intuitive multi-language graphical interface.
+
+[**English**](README.md) | [**繁體中文**](README_zh-TW.md)
+
+## 📖 Documentation
 
 - **[Quick Start Guide](docs/quick_start_guide.md)**: Get started quickly
 - **[User Manual](docs/user_manual.md)**: Comprehensive usage guide
-- **[Release Notes](RELEASE_NOTES.md)**: Version history and changelogonverter that transforms EPUB and PDF files into clean, readable TXT format with an intuitive multi-language graphical interface.
-
-**English** | [繁體中文](README_zh-TW.md)
+- **[Release Notes](docs/RELEASE_NOTES.md)**: Version history and changelog
 
 ## ✨ Key Features
 
@@ -16,7 +18,7 @@ A powerful, professional-grade bat## 📖 Documentation
 - **Complete Localization**: All interface elements fully support multiple languages
 - **Persistent Preferences**: Language settings saved automatically
 
-### � Advanced Document Processing
+### 📄 Advanced Document Processing
 - **Dual Format Support**: Seamlessly convert both EPUB and PDF files to TXT
 - **Intelligent Batch Processing**: Handle hundreds of files automatically with smart queuing
 - **Multiple Extraction Methods**: Advanced fallback strategies for difficult files
@@ -37,10 +39,10 @@ A powerful, professional-grade bat## 📖 Documentation
 - **Multiple Output Strategies**: Smart output folder generation and management
 - **Robust Error Recovery**: Multiple fallback methods for challenging document formats
 
-## �️ Installation & Setup
+## 🛠️ Installation & Setup
 
 ### Method 1: Download Executable (Recommended)
-1. Go to [Releases](../../releases) and download the latest version
+1. Go to [Releases](https://github.com/wayhong0928/epub-pdf-to-txt-converter/releases) and download the latest version
 2. Extract the ZIP file to your desired location
 3. Double-click `epub_to_txt_converter.exe` to launch
 4. Select your input folder containing EPUB/PDF files
@@ -216,7 +218,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](../../issues)
 - **Discussions**: [GitHub Discussions](../../discussions)
-- **Email**: wayhong0928@gmail.com
 
 ## �📈 Project Status
 
