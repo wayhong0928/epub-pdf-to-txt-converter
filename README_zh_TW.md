@@ -2,7 +2,7 @@
 
 一個功能強大的專業級批次轉換器，能將 EPUB 和 PDF 檔案轉換為乾淨、可讀的 TXT 格式，並提供直觀的多語言圖形介面。
 
-[**English**](README.md) | [**繁體中文**](README_zh-TW.md)
+[**English**](README.md) | [**繁體中文**](README_zh_TW.md)
 
 ![Application Screenshot](images/v1.0.0UI.jpg)
 
