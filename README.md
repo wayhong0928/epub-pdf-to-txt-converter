@@ -2,7 +2,7 @@
 
 A powerful, professional-grade batch converter that transforms EPUB and PDF files into clean, readable TXT format with an intuitive multi-language graphical interface.
 
-[**English**](README.md) | [**繁體中文**](README_zh-TW.md)
+[**English**](README.md) | [**繁體中文**](README_zh_TW.md)
 
 ![Application Screenshot](images/v1.0.0UI.jpg)
 
